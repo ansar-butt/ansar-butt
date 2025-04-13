@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=ansar-butt&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **ansar-butt/ansar-butt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
